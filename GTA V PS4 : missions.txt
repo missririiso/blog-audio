@@ -1,0 +1,168 @@
+The entry for "Cleaning out the Bureau". Originally, the janitor was killed instead of being talked by Michael into giving up his gear, the reason for it having been like that seems to be explained by unused audio showing that Steve Haines and Dave Norton accompanied Michael and Lester.
+
+<mission>
+<id>9202</id>
+<name>The Agency Heist 1 - Setup - Follow Janitor</name>
+<description>Follow the janitor from his work to his apartment. Kill him at his home and steal his uniform. Heists -> Agency Heist -> Agency Heist 1 </description>
+<scriptName>agency_heist1.sc</scriptName>
+<issues/>
+<storyDescription/>
+<missionId>AH1</missionId>
+<played>false</played>
+<adminToPlay>false</adminToPlay>
+<percentageComplete>60</percentageComplete>
+<designerInitials>PD</designerInitials>
+<projectedAttempts>0.0</projectedAttempts>
+<projectedAttemptsMin>0.0</projectedAttemptsMin>
+<projectedAttemptsMax>0.0</projectedAttemptsMax>
+<variantNumber>0</variantNumber>
+<inactive>false</inactive>
+<singleplayer>false</singleplayer>
+</mission>
+The entry for a cut alternate approach of "Architect's Plans", which involved blackmailing the architect with a photo of him and a male lover of his.
+
+<mission>
+<id>9205</id>
+<name>VOID The Agency Heist 2B - Setup - Blackmail Architect</name>
+<description>Take a photo of architect and his gay lover. Use photo as blackmail for building plans. Heists -> The Agency Heist ->The Agency Heist 2B</description>
+<scriptName>agency_heist2b.sc</scriptName>
+<issues> </issues>
+<storyDescription/>
+<missionId>AH2b</missionId>
+<played>false</played>
+<adminToPlay>false</adminToPlay>
+<percentageComplete>60</percentageComplete>
+<designerInitials>PD</designerInitials>
+<projectedAttempts>0.0</projectedAttempts>
+<projectedAttemptsMin>0.0</projectedAttemptsMin>
+<projectedAttemptsMax>0.0</projectedAttemptsMax>
+<variantNumber>0</variantNumber>
+<inactive>true</inactive>
+<singleplayer>false</singleplayer>
+</mission>
+An entry for another cut alternate approach in "Architect's Plans", this one being about taking advantage of the architect getting mugged.
+
+<mission>
+<id>9206</id>
+<name>VOID The Agency Heist 2C - Setup - Intervene in Mugging</name>
+<description>The architect is being mugged. Intervene and take briefcase with building plans. Heists -> The Agency Heist ->The Agency Heist 2C</description>
+<scriptName>agency_heist2c.sc</scriptName>
+<issues> </issues>
+<storyDescription/>
+<missionId>AH2c</missionId>
+<played>false</played>
+<adminToPlay>false</adminToPlay>
+<percentageComplete>60</percentageComplete>
+<designerInitials>PD</designerInitials>
+<projectedAttempts>0.0</projectedAttempts>
+<projectedAttemptsMin>0.0</projectedAttemptsMin>
+<projectedAttemptsMax>0.0</projectedAttemptsMax>
+<variantNumber>0</variantNumber>
+<inactive>true</inactive>
+<singleplayer>false</singleplayer>
+</mission>
+The entry for "Monkey Business". It mentions Franklin being who originally piloted the Cargobob instead of Trevor.
+
+<mission>
+<id>9212</id>
+<name>FIB 5 - Monkey Business</name>
+<description>Break into lab via underwater pipe, steal chemicals and hold off security until Franklin arrives. </description>
+<scriptName>FBI5A.sc</scriptName>
+<issues> </issues>
+<storyDescription>Missions -> FIB Strand -> FIB 5A Monkey Business</storyDescription>
+<missionId>FIB5</missionId>
+<played>false</played>
+<adminToPlay>false</adminToPlay>
+<percentageComplete>70</percentageComplete>
+<designerInitials>LK</designerInitials>
+<projectedAttempts>0.0</projectedAttempts>
+<projectedAttemptsMin>0.0</projectedAttemptsMin>
+<projectedAttemptsMax>0.0</projectedAttemptsMax>
+<variantNumber>0</variantNumber>
+<inactive>false</inactive>
+<singleplayer>false</singleplayer>
+</mission>
+The entry for a cut part of the mission "Monkey Business". Unlike the final game, where the characters escape from the laboratory with no problem, here a chase through Los Santos happened and parachuting happened after delivering the container. Multiple assets meant for this removed part can also be found.
+
+<mission>
+<id>9213</id>
+<name>VOID FIB 5B - Monkey Business</name>
+<description>Helicopter chase through city, fending off pursuers. Transfer container and parachute to safety.</description>
+<scriptName>FBI5B.sc</scriptName>
+<issues> </issues>
+<storyDescription>Missions -> FIB Strand -> FIB 5B Monkey Business</storyDescription>
+<missionId>FIB5B</missionId>
+<played>false</played>
+<adminToPlay>false</adminToPlay>
+<percentageComplete>50</percentageComplete>
+<designerInitials>RoB</designerInitials>
+<projectedAttempts>0.0</projectedAttempts>
+<projectedAttemptsMin>0.0</projectedAttemptsMin>
+<projectedAttemptsMax>0.0</projectedAttemptsMax>
+<variantNumber>0</variantNumber>
+<inactive>true</inactive>
+<singleplayer>false</singleplayer>
+</mission>
+The entry for "Repossession" seems to indicate the Marabunta Grande might have had the role of the Vagos in this mission, seeing as it mentions El Salvadorian gangsters while the Vagos are Mexican.
+
+<mission>
+<id>9250</id>
+<name>Armenian 2 - Repossession</name>
+<description>Collect a bike from El Salvadorian gangsters. Franklin's buddy kicks off and it results in a shootout. </description>
+<scriptName>armenian2.sc</scriptName>
+<issues> </issues>
+<storyDescription>Missions -> Armenian Strand -> Armenian2 Repossession. On another repo job, Franklin and his buddy go to collect a bike from some El Salvadorian gangsters. Franklins buddy kicks off and there is a shootout. Franklin chases the bike and ramraids the rider to stop him escaping. </storyDescription>
+<missionId>ARM2</missionId>
+<played>false</played>
+<adminToPlay>false</adminToPlay>
+<percentageComplete>50</percentageComplete>
+<designerInitials>KB</designerInitials>
+<projectedAttempts>0.0</projectedAttempts>
+<projectedAttemptsMin>0.0</projectedAttemptsMin>
+<projectedAttemptsMax>0.0</projectedAttemptsMax>
+<variantNumber>0</variantNumber>
+<inactive>false</inactive>
+<singleplayer>false</singleplayer>
+</mission>
+The entry for a cut mission of the Car Steal strand. Brucie, the GTA IV-originated character who is only seen in picture and voice form in this game, was going to make a physical appearance and his car was stolen thanks to Franklin and Trevor after Brucie is fooled with a girl from the internet. The removal of this mission resulted in several plot holes in the final game.
+
+<mission>
+<id>9252</id>
+<name>VOID Car Steal 1 - Social Networking</name>
+<description>Franklin tricks Brucie to steal car. Stinger Missions -> Car Steal Strand -> Car Steal 1 Social Networking</description>
+<scriptName>.sc</scriptName>
+<issues/>
+<storyDescription>Franklin gets a photo of a hot girl and set up a Facebook account for her. He chats up Brucie and arranges to meet so he can steal his car - Stinger. Pay a call girl to go out with Brucie and drop her off at the meet point. Follow Brucie and the girl. While Trevor bursts in on them and takes incriminating photos to put on facebook, Franklin steals Brucies car.</storyDescription>
+<missionId>CARV</missionId>
+<played>false</played>
+<adminToPlay>false</adminToPlay>
+<percentageComplete>50</percentageComplete>
+<designerInitials>PD</designerInitials>
+<projectedAttempts>0.0</projectedAttempts>
+<projectedAttemptsMin>0.0</projectedAttemptsMin>
+<projectedAttemptsMax>0.0</projectedAttemptsMax>
+<variantNumber>0</variantNumber>
+<inactive>true</inactive>
+<singleplayer>false</singleplayer>
+</mission>
+The entry for "I Fought the Law...". First, it mentions Franklin meeting the car owners at a garage outside Los Santos instead of a gas station in the countryside as it is in-game. And second, it mentions someone being pushed off the Cassidy Creek Bridge, a plot point that technically did make to the final game (just not in the mission itself).
+
+<mission>
+<id>9256</id>
+<name>Car Steal 1 - I fought the law...</name>
+<description>Race targets and pose as the police to steal their cars EntityXF and Cheetah. Missions -> Car Steal Strand -> Car Steal 3 I fought the law..</description>
+<scriptName>carsteal1.sc</scriptName>
+<issues> </issues>
+<storyDescription>Franklin meets the targets at a garage outside the city and challenges them to a race. Trevor and Michael are waiting on the route with police bikes. Tail the target and pull him over then push him off a bridge and steal their cars - EntityXF and Cheetah.</storyDescription>
+<missionId>CAR1</missionId>
+<played>false</played>
+<adminToPlay>false</adminToPlay>
+<percentageComplete>75</percentageComplete>
+<designerInitials>AL</designerInitials>
+<projectedAttempts>0.0</projectedAttempts>
+<projectedAttemptsMin>0.0</projectedAttemptsMin>
+<projectedAttemptsMax>0.0</projectedAttemptsMax>
+<variantNumber>0</variantNumber>
+<inactive>false</inactive>
+<singleplayer>false</singleplayer>
+</mission>

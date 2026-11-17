@@ -1,0 +1,16 @@
+Found inside TombRaider.exe at 0x9DCBA4 is this small memo for when something goes wrong in the game's scripting:
+
+Something horrible has happened.  Please get Ted or Scott.
+
+Unlock All Unlockables
+UI Make Hints Modal
+Unlock All Extras Content
+Unlock Tier 3 Skills for Purchase in UI
+Unlock Tier 2 Skills for Purchase in UI
+Add 5 Skill Points
+Add 1 Skill Point
+
+Player Init: Start Physics at Zero
+LookAt
+Skew Cheat Disabled, reverting to Default Gravity.
+Skew Cheat Enabled!

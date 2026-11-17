@@ -1,0 +1,18 @@
+
+Apparently you were meant to be able to take screenshots in the PSP version of the game, no such feature seems to exist though.
+
+Do you want so save this screenshot to your Memory Stick
+? Press ~X~ to save or press ~O~ to go back to the game.
+There is no Memory Stick
+ in your PSP. If you want to save this screenshot, insert a Memory Stick
+ and then press ~X~ to save or press ~O~ to go back to the game.
+Your Memory Stick
+ does not have enough disk space. If you want to save this screenshot, insert a Memory Stick
+ with sufficient disk space and then press ~X~ to save or press ~O~ to go back to the game.
+Please wait... Saving... Do not remove your Memory Stick
+ or go into suspend mode until saving is finished.
+Saving successful! The screenshots are stored on the Memory Stick
+ in folder PSP/SAVEDATA/ULUX80212_SCREENSHOTS. Press ~X~ to go back to the game.
+An error occured while saving. Have you removed the Memory Stick
+ or did you go into suspend mode? If you want to try again press ~X~ to save or press ~O~ to go 
+back to the game.

@@ -1,0 +1,29 @@
+According to several files, the game was supposed to have winter. Based on these leftovers, here's what is known about it.
+
+In common\data\Ambient.dat file, there is a bit known as >IsSnowing. This could mean snow was a weather condition.
+
+#	WORLD STATES:
+#
+# 		IsRaining 
+#		IsSunny
+#		IsNight
+# 		IsSnowing
+#		IsWindy
+In common\data\effects\materialFx, weaponFx, vehicleFx and pedFx.dat files, there is a several mentions of SNOW being a unique part of the surface with its own configuration, which was never finished.
+
+SNOW 9999.9 - - 1 1 0 0100.0 0.01 0 0.0 9999.9 9999.9 - 9999.9 9999.9 - 0
+
+SNOW 0 0 0 0 0 0 0 0 0 0 0 0 908 908 930 820 908
+
+SNOW footprints_01 footprints_01_normal footprints_01 footprints_01_normal 1 2 0 1 0100.0 0.01 1 0.1 0.24 0.24 - - - - 0100.0 0.01 0 0.0 0.0 0.0 0.8 - 0.3 ped_foot_water
+
+SNOW 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0132 0132 0132 0132 0 0
+
+
+In pedVariations.dat file, there is a leftover from a removed pedestrian called M_Y_WINTER. This is an interesting moment, as it could mean that winter may not have affected all of Liberty City, but was in some specific area where this pedestrian was supposed to be used.
+
+M_Y_WINTER,		2
+#slot		geometry	BULK	JOB	SUNNY	WET	MAT1	RES1A	RES1B	RES2A	RES2B		AUDIO ID
+feet,		0,		0,	0,	0,	0,	0,	-1,	-1,	-1,	-1,		1
+lowr,		0,		0,	0,	0,	0,	0,	-1,	-1,	-1,	-1,		1
+end

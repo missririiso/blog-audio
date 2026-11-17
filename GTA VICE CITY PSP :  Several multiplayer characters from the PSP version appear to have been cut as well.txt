@@ -1,0 +1,33 @@
+MPC_018: Paramedic - Lose this one
+MPC_022: Gloria - Lose this one
+MPC_023: Woman - Lose this one
+MPC_024: Bloke 1 - Lose this one
+MPC_025: Bloke 2 - Lose this one
+MPC_026: Woman - Lose this one
+MPC_027: Woman - Lose this one
+MPC_028: Bloke 3 - Lose this one
+MPC_029: Bloke 4 - Lose this one
+MPC_033: Beach guy - Lose this one
+MPC_034: Woman - Lose this one
+MPC_040: Worker - Lose this one
+MPC_041: Cabbie - Lose this one
+MPC_042: Construction guy - Lose this one
+MPC_047: Bloke 5 - Lose this one
+MPC_050: Bloke 6 - Lose this one?
+MPC_052: Beach guy - Lose this one
+MPC_055: Bloke 7 - Lose this one
+MPC_065: Old Guy - Lose this one
+MPC_067: Woman - Lose this one
+MPC_069: Bloke 8 - Lose this one
+MPC_074: Construction dude - Lose this one
+MPC_075: Golf woman - Lose this one
+MPC_076: Golfer - Lose this one
+MPC_079: Woman - Lose this one
+MPC_081: Bloke 9 - Lose this one
+MPC_083: Woman bum - Lose this one
+MPC_084: Old bum - Lose this one
+MPC_086: Bloke 10 - Lose this one
+MPC_111: Golfer - Lose this one
+MPC_112: Golfer - Lose this one
+MPC_129: Buger Bar - Lose this one?
+MPC_136: Cameraman - Lose this one
